@@ -1,0 +1,18 @@
+body {
+    background-color: #e3e0e2;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 540px;
+    margin: auto;
+}
+
+blockquote {
+    border: 1px solid white;
+    text-align: center;
+    padding: 15px;
+    margin-left: 0;
+    margin-right: 0;
+
+}
